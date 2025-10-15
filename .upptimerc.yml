@@ -3,5 +3,5 @@ owner: sensein
 repo: Neuro-Ontologies 
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Cognitive Atlas
+    url: https://www.cognitiveatlas.org/
