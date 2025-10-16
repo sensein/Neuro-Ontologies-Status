@@ -3,10 +3,8 @@ owner: sensein
 repo: Neuro-Ontologies 
 
 sites:
-  # Neuroscience
   - name: Cognitive Atlas
     url: https://www.cognitiveatlas.org/
-  # Birds
   - name: Clements Checklist
     url: https://www.birds.cornell.edu/clementschecklist/introduction/updateindex/october-2024/2024-citation-checklist-downloads/
   - name: Trust for Avian Systematics
