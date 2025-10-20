@@ -11,3 +11,135 @@ sites:
     url: https://www.aviansystematics.org/
   - name: Birds of the World
     url: https://birdsoftheworld.org/bow/home
+  - name: NCBI Taxonomy
+    url: https://www.ncbi.nlm.nih.gov/taxonomy
+  - name: Integrated Taxonomic Information System (ITIS)
+    url: https://www.itis.gov/
+  - name: Catalogue of Life
+    url: https://www.catalogueoflife.org/
+  - name: Tree of Life Web Project
+    url: https://tolweb.org/
+  - name: Global Biodiversity Information Facility
+    url: https://www.gbif.org/
+  - name: Encyclopedia of Life
+    url: https://eol.org/
+  - name: World Register of Marine Species
+    url: https://www.marinespecies.org/
+  - name: Clements Checklist of Birds
+    url: https://www.birds.cornell.edu/clementschecklist/
+  - name: IOC World Bird List
+    url: https://www.worldbirdnames.org/
+  - name: Avibase Bird Taxonomy
+    url: https://avibase.bsc-eoc.org/
+  - name: American Ornithological Society Checklist
+    url: https://americanornithology.org/publications/bird-checklists/
+  - name: Mammal Species of the World
+    url: https://www.departments.bucknell.edu/biology/resources/msw3/
+  - name: Mammal Diversity Database
+    url: https://www.mammaldiversity.org/
+  - name: Amphibian Species of the World
+    url: https://amphibiansoftheworld.amnh.org/
+  - name: Reptile Database
+    url: http://www.reptile-database.org/
+  - name: FishBase Taxonomy
+    url: https://www.fishbase.se/
+  - name: Entomological Society of America Common Names Database
+    url: https://www.entsoc.org/common-names
+  - name: Butterflies and Moths of the World
+    url: https://www.nhm.ac.uk/our-science/data/butmoth/
+  - name: Bat Conservation International Species Profiles
+    url: https://www.batcon.org/about-bats/bat-profiles/
+  - name: AntWeb Taxonomy
+    url: https://www.antweb.org/
+  - name: BugGuide Insect Taxonomy
+    url: https://bugguide.net/
+  - name: International Commission on Zoological Nomenclature
+    url: https://www.iczn.org/
+  - name: Animal Diversity Web
+    url: https://animaldiversity.org/
+  - name: Ethogram Database
+    url: https://www.ethosearch.org/
+  - name: Mouse Phenotype Ontology
+    url: https://www.mousephenotype.org/
+  - name: Primate Info Net Taxonomy
+    url: https://pin.primate.wisc.edu/factsheets
+  - name: Xenbase (Xenopus Model Organism)
+    url: http://www.xenbase.org/
+  - name: FlyBase (Drosophila Taxonomy)
+    url: https://flybase.org/
+  - name: WormBase (C. elegans)
+    url: https://wormbase.org/
+  - name: ZooKeys Taxonomy
+    url: https://zookeys.pensoft.net/
+  - name: IUCN Red List Taxonomic Standards
+    url: https://www.iucnredlist.org/resources/tax-sources
+  - name: Behavioral Neuroscience Atlas
+    url: https://www.behavioralatlas.org/
+  - name: Mouse Behavior Ontology
+    url: https://www.mousephenotype.org/data/ontologies/
+  - name: Vertebrate Trait Ontology
+    url: https://bioportal.bioontology.org/ontologies/VT
+  - name: Avian Brain Nomenclature Consortium
+    url: https://avianbrain.org/
+  - name: Animal Trait Ontology for Livestock
+    url: https://www.animalgenome.org/bioinfo/projects/ato/
+  - name: Ecoregions of the World
+    url: https://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world
+  - name: Bioacoustic Ontology
+    url: https://github.com/BioAcoustica/ontology
+  - name: Biodiversity Heritage Library
+    url: https://www.biodiversitylibrary.org/
+  - name: Mosquito Taxonomic Inventory
+    url: http://mosquito-taxonomic-inventory.info/
+  - name: Barcode of Life Data System
+    url: https://www.boldsystems.org/
+  - name: Cichlid Taxonomy
+    url: https://cichlid.org/
+  - name: Neuroanatomical Terminology Portal
+    url: https://neurolex.org/
+  - name: Comparative Brain Collection
+    url: https://brainmuseum.org/
+  - name: Drosophila Behavior Ontology
+    url: https://wiki.flybase.org/wiki/FlyBase:Controlled_Vocabularies
+  - name: Zebrafish Information Network
+    url: https://zfin.org/
+  - name: Research Domain Criteria (RDoC) Framework
+    url: https://www.nimh.nih.gov/research/research-funded-by-nimh/rdoc
+  - name: Cognitive Atlas
+    url: https://www.cognitiveatlas.org/
+  - name: NeuroLex - Neuroscience Lexicon
+    url: https://scicrunch.org/scicrunch/interlex/dashboard
+  - name: NIF Standard Ontology
+    url: https://github.com/SciCrunch/NIF-Ontology
+  - name: Animal Behavior Ontology
+    url: https://github.com/obo-behavior/behavior-ontology
+  - name: Neuro Behavior Ontology
+    url: http://bioportal.bioontology.org/ontologies/NBO
+  - name: Brain Regions & Cell Types Taxonomy
+    url: https://portal.brain-map.org/
+  - name: Gene Ontology for Neural Processes
+    url: http://geneontology.org/docs/neuronal-processes/
+  - name: Ethogram Database
+    url: https://www.ethosearch.org/
+  - name: EBRAINS Brain Atlas
+    url: https://ebrains.eu/services/atlases/
+  - name: Neural Circuit Resource
+    url: https://neuinfo.org/
+  - name: BIDS - Brain Imaging Data Structure
+    url: https://bids.neuroimaging.io/
+  - name: Ethoinformatics Consortium
+    url: https://github.com/ethoinformatics
+  - name: Mouse Behavior Ontology
+    url: https://www.ebi.ac.uk/ols/ontologies/mbo
+  - name: The Social Brain Atlas
+    url: https://neurovault.org/collections/2462/
+  - name: Human Affectome Project Taxonomy
+    url: https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01797/full
+  - name: EMBRACE Data Collection Ontology
+    url: https://bioportal.bioontology.org/ontologies/EMBRACE-DC
+  - name: International Affective Picture System (IAPS)
+    url: https://csea.phhp.ufl.edu/media.html
+  - name: Experimental Factor Ontology
+    url: https://www.ebi.ac.uk/ols/ontologies/efo
+  - name: Global Organization for Earth System Science Portals
+    url: https://www.go-fair.org/
